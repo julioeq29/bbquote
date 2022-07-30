@@ -2,6 +2,7 @@ requests
 ipython
 coverage
 pytest
+streamlit
 
 # packaging
 
