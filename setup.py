@@ -7,7 +7,7 @@ requirements = [x.strip() for x in content if 'git+' not in x]
 
 setup(name='bbquote',
       version="1.0",
-      description="Project Description",
+      description="bbquote saturday",
       packages=find_packages(),
       install_requires=requirements,
       test_suite='tests',
